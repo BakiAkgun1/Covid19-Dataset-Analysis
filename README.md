@@ -1,6 +1,3 @@
-Elbette! İşte güncellenmiş README dosyası, Kaggle veri seti bilgilerini ve ilgili kolonları da içerir:
-
----
 
 # Covid Dataset Analysis
 
